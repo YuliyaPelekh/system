@@ -1,0 +1,10 @@
+
+puts "Input folder name:"
+fname = gets.chomp
+puts "Input folder number:"
+fnumber = gets.chomp.to_i
+i = 1
+
+(1..fnumber).each do |i|
+  Dir.mkdir "#{fname}_#{i}"
+end

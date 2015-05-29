@@ -1,0 +1,6 @@
+
+
+# Begin Whenever generated tasks for: store
+/5 * * * * echo "Hello"
+
+# End Whenever generated tasks for: store

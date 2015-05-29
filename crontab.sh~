@@ -1,0 +1,5 @@
+#!/bin/bash
+
+* * * * * echo "Hello" >> /home/yuliya/system/hello.rb
+
+
